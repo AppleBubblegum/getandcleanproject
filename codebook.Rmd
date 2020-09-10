@@ -1,0 +1,20 @@
+---
+title: "Codebook"
+author: "Isa Baghirov"
+date: "10 09 2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Getting and cleaning data
+A script that fetches messy data and makes it tidy, writing the resulting table to a .txt file.
+There are three key files for this assignment:
+
+run_Analysis.R
+resulttable.txt
+codebook
